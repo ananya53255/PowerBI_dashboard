@@ -1,0 +1,1 @@
+This dashboard shows the number of trips throughout the day, total passengers, if the bus was full (utilized) or not (underutilized), peak and off peak hour trips for each of the 40 routes, changes in number of trips since 2023. All these information can be filtered by bus routes, gender and time of the day, day of the week.
